@@ -1,6 +1,3 @@
-# kubecli
-Docker image with the components needed for kubectl.
-
 # Kube CLI
 
 This is Docker image for the [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/).
